@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Background}{1}{}%
+\contentsline {subsection}{\numberline {1.2}The Monte Carlo Method}{2}{}%
+\contentsline {section}{\numberline {2}The Area of a Circle}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Deterministic Calculations}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Calculating Using the Monte Carlo Method}{3}{}%
+\contentsline {section}{\numberline {3}The Area of a Polar Rose}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Rationale and Background}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Deterministic Calculations}{6}{}%
+\contentsline {section}{\numberline {4}Solving Using the Monte Carlo Method}{10}{}%
+\contentsline {section}{\numberline {5}Applications}{12}{}%
+\contentsline {section}{\numberline {6}Conclusion}{12}{}%
+\contentsline {section}{References}{14}{}%
+\contentsline {section}{\numberline {A}Appendix: Python Code for the Monte Carlo Program}{15}{}%
